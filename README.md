@@ -1,4 +1,4 @@
 # admin-dashboard
 
--The Odin Project 
--CSS Grid Project
+- The Odin Project 
+- CSS Grid Project
